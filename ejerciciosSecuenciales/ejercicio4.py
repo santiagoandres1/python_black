@@ -1,6 +1,6 @@
-sueldo=2600000
+sueldo=2500000
 tcomisiones= 0
-comisiones= 400
+comisiones= 600
 ventas =0
 total =0
 

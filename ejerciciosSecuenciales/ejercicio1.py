@@ -1,6 +1,6 @@
 #Aquí declaré variables
 a= str (input("digite su nombre :"))
-b= str (input("coloque el nombre del cetro de formacion :"))
+b= str (input("coloque el nombre del centro de formacion :"))
 c= int (input("digite el numero del ambiente :"))
 
 #Aqui mostrare el resultado de las variables
